@@ -1,14 +1,10 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/584/399/desktop-wallpaper-create-full-stack-application-using-spring-boot-and-react-spring-boot.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Jitesh Raghav</h1>
 <h3 align="center">A passionate learner and part time API developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jitesh-raghav&label=Profile%20views&color=0e75b6&style=flat" alt="jitesh-raghav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitesh-raghav" alt="jitesh-raghav" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/okayjitesh" target="blank"><img src="https://img.shields.io/twitter/follow/okayjitesh?logo=twitter&style=for-the-badge" alt="okayjitesh" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot and Java**
 
