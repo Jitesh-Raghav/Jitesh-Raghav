@@ -12,7 +12,7 @@
   <a href="https://jiteshraghav.vercel.app">Portfolio</a> •
   <a href="https://jiteshraghav.vercel.app/blog">Blog</a> •
   <a href="https://www.linkedin.com/in/jitesh-raghav/">LinkedIn</a> •
-  <a href="https://github.com/Jitesh-Raghav">GitHub</a>
+  <a href="https://github.com/Jitesh-Raghav">GitHub</a> •
   <a href="https://drive.google.com/file/d/1Kz4zgP-2aWpW3tvALQ_KFwHlOWd0iTtD/view">Resume</a>
 </p>
 
@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
+- 🌍 Open to **Backend / Full Stack / Remote opportunities**
 - 💻 Software Engineer passionate about building scalable backend systems.
 - ☕ Primary stack: **Java, Spring Boot, PostgreSQL, Redis, React & Next.js**
 - ⚙️ Interested in **Distributed Systems, System Design, High Performance APIs & AI**
 - 🌱 Currently exploring **Kafka, Kubernetes and Cloud Architecture**
 - ✍️ I enjoy writing engineering blogs that simplify backend concepts.
-- 🌍 Open to **Backend / Full Stack / Remote opportunities**
-- 📚 Outside coding, you'll usually find me reading engineering blogs, books or open source code.
+- 📚 Outside coding, you'll usually find me at gym or reading engineering blogs, books or open source code.
 
 <br clear="right"/>
 
