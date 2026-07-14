@@ -6,7 +6,7 @@
 
 
 
-- 🌱 **Spring Boot, React, Java**
+- 🌱 **Spring Boot, React, Next.js, Angular**
 
 - 💬 Ask me about **How to ignore DSA for Dev**
 
