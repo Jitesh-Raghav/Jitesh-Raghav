@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jkr18042001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1EaIC311f86-58pVX11mBuipSIZj50ymm?usp=drive_link](https://drive.google.com/drive/folders/1EaIC311f86-58pVX11mBuipSIZj50ymm?usp=drive_link)
+- 📄 Know about my experiences here. (https://drive.google.com/file/d/1Kz4zgP-2aWpW3tvALQ_KFwHlOWd0iTtD/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
