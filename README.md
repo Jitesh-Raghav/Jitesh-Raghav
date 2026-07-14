@@ -1,4 +1,4 @@
 
-*"I plan today. I execute tonight. No bloody tomorrow."*
+*I plan today. I execute tonight. No bloody tomorrow.*
 
 
