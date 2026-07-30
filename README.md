@@ -1,4 +1,4 @@
 
-*We plan today and execute tonight. No bloody tomorrow.* 
+*Passionate learner and a part time developer* 
 
 
