@@ -1,4 +1,4 @@
 
-*Passionately curious learner and part-time developer building things on the internet.* 
+*We plan today and execute tonight, no bloody tomorrow. There is no tomorrow.* 
 
 
